@@ -1,11 +1,12 @@
 # dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
-[Implementação baseada em Crowdfunding - implementa:] (https://vaquinha.azurewebsites.net)
-### OpenQA.Selenium -> webdriver
-### Xunit -> ferramenta de teste
-### Moq -> emula determinado componente
-### Fluent Assertions -> documentar melhor o teste
-### Fake -> gera dados aleatórios válidos
+[Implementação baseada em Crowdfunding] (https://vaquinha.azurewebsites.net)
+Contém:
+Webdriver **OpenQA.Selenium**
+Ferramenta de teste **Xunit**
+Emulador de componente **Moq**
+Ferramenta de documentação de teste **Fluent Assertions**
+Gerador de dados aleatórios válidos **Fake**
 
 ## Digital Innovation One
 
@@ -16,7 +17,7 @@ Projeto Base para Testes - .Net Core
     <img alt="Browser print screen" src="img/capa.jpg">
 </p>
 
-##Criadores:
+# Criadores:
 ## Eliézer Zarpelão
 [GitHub Timeline](https://elizarp.github.io/timeline/)  
 [Linkedin](http://br.linkedin.com/in/eliezerzarpelao)  
